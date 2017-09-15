@@ -1,5 +1,6 @@
 This sample is for reference [graphql](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 
+# server
 ## run
 node index.js
 
@@ -89,3 +90,8 @@ The query is the same as above
   }
 }
 ```
+
+# client
+## run
+- npm install
+- yarn start
