@@ -1,7 +1,8 @@
 This sample is for reference [graphql](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
 
 ## run
-node index.js
+- npm install
+- node index.js
 
 ## query
 open url http://localhost:3001/graphiql
@@ -35,7 +36,7 @@ query person($id: ID) {
 ```
 
 ## mutation
-open url http://localhost:3001/graphiql
+- open url http://localhost:3001/graphiql
 
 ### add new record
 
