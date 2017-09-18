@@ -82,7 +82,7 @@ The query is the same as above
 ```
 {
   "input": {
-  	"id": 1,
+    "id": 1,
     "firstName": "PengPeng",
     "lastName": "Yu",
     "age": 18,
