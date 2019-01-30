@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "^4.15.4",
-    "body-parser": "^1.18.1",
-    "graphql-server-express": "^1.1.2",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
     "graphql": "^0.11.3",
-    "cors": "^2.8.4"
+    "graphql-server-express": "^1.1.2"
   },
   "scripts": {}
 }
